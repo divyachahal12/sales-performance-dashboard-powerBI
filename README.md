@@ -19,4 +19,5 @@ for desktop storage synchronization to secure database states automatically.
 - **Geospatial Sales Intelligence:** Plotted localized mapping using dynamic bubble scaling—revealing high-margin profiles across countries operations relative to higher discount, lower margin nodes in emerging regions.
 - **Operational Trend Lines:** Visualized continuous monthly sales trends alongside localized daily revenue velocities, successfully identifying prime weekday transaction spikes to coordinate staff and supply demands.
 
-<img width="246" height="146" alt="Adobe Express - Screen Recording 2026-07-01 at 11 49 08 pm" src="https://github.com/user-attachments/assets/550d608f-d8ee-4b10-8ec5-bdd072163ac2" />
+<img width="800" height="474" alt="ScreenRecording2026-07-01at11 49 08pm-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/6858cd14-8bc2-447f-a8ef-2d8c72b40c93" />
+
