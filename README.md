@@ -18,3 +18,5 @@ for desktop storage synchronization to secure database states automatically.
 - **Dynamic Slicing Architecture:** Enabled executive filtering down to the Country, Store Location (City), Product Category, and Payment Method level.
 - **Geospatial Sales Intelligence:** Plotted localized mapping using dynamic bubble scaling—revealing high-margin profiles across countries operations relative to higher discount, lower margin nodes in emerging regions.
 - **Operational Trend Lines:** Visualized continuous monthly sales trends alongside localized daily revenue velocities, successfully identifying prime weekday transaction spikes to coordinate staff and supply demands.
+
+<img width="246" height="146" alt="Adobe Express - Screen Recording 2026-07-01 at 11 49 08 pm" src="https://github.com/user-attachments/assets/550d608f-d8ee-4b10-8ec5-bdd072163ac2" />
